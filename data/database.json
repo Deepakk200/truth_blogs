@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "REACT JSON SERVER",
+      "body": "Before committing any changes, run the following script to update your static files for productionBefore committing any changes, run the following script to update your static files for productionBefore committing any changes, run the following script to update your static files for productionBefore committing any changes, run the following script to update your static files for productionBefore committing any changes, run the following script to update your static files for productionBefore committing any changes, run the following script to update your static files for production",
+      "author": "deepak",
+      "id": 2
+    },
+    {
+      "title": "ARTIFICIAL INTELLIGENCE",
+      " body": "Before committing any changes, run the following script to update your static files for productionBefore committing any changes, run the following script to update your static files for productionBefore committing any changes, run the following script to update your static files for productionBefore committing any changes, run the following script to update your static files for productionBefore committing any changes, run the following script to update your static files for productionBefore committing any changes, run the following script to update your static files for production",
+      "author": "deepak",
+      "id": 3
+    },
+    {
+      "title": " the",
+      "author": " mario",
+      "body": " defs",
+      "id": 4
+    }
+  ]
+}

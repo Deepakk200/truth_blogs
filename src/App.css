@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;700&family=Roboto+Mono:ital,wght@0,100;0,200;0,400;0,500;0,700;1,100;1,400;1,600;1,700&display=swap');
+
+*{
+  font-family:'roboto mono';
+  margin: 0%;
+  
+}
+.navbar{
+  display:flex;
+  font-family:  cursive;
+  justify-content:space-between;
+  align-content:space-between;
+  background-color:#9ed0d0; 
+  text-align:center;
+  padding: 10px;
+}
+
+.navbar .title{
+  margin-left:5%;
+  font-weight:550;
+  font-size:25px;
+  
+}
+.navbar .links{
+  margin-right:5%;
+  justify-content:space-evenly;
+  align-content:center;
+  text-align:center;
+  
+}
+.navbar .links a{
+  text-decoration:none;
+  margin-right:2em;
+  color:#2F58CD;
+  text-align:center;
+  padding:3px;
+  
+}
+.navbar .links a:hover{
+  color:#000000;
+  background-color:#2F58CD;
+  border:0px solid transparent;
+  border-radius:5px;
+
+}
+
+.navbar .links .active{
+  color:#292d2d;
+  background-color:#2F58CD;
+  border:0px solid transparent;
+  border-radius:5px;
+}
+
+#con{
+  color: rgb(28, 25, 25);
+  width:100%;
+  height:100vh;
+ 
+}
+.block p{
+  margin: 30px;
+}
+.cont{
+  padding: 12px;
+}
+#con .tent{
+   justify-content:center;
+   align-content:center;
+   text-align: center;
+  
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 100,
+  'GRAD' 0,
+  'opsz' 20
+}
+.blog-preview{
+  padding-left: 9px ;
+}
+#search-btn{
+  background-color: transparent;
+  border: 0 solid transparent;
+  size: 5px;
+}
+.blog-preview a{
+  text-decoration: none;
+}
+.blog-previews {
+  margin: 12px;
+}
+.blog-previews h2{
+  font-size: 30px;
+  color: rgb(19, 6, 6);
+  margin-bottom: 10px;
+  text-transform: uppercase;
+ 
+}
+.blog-previews p{
+  font-size: 21px;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(35, 104, 202);
+  margin-bottom: 12px;
+  
+}
+.blog-previews div{
+margin: 25px 23px;
+font-size: 17px;
+}
+.create {
+  max-width: 400px; 
+  margin: 90px auto; 
+  text-align: center;
+  text-transform: uppercase;
+  }
+.create nav{
+  margin-bottom: 60px;
+  color: #f1356d;
+}
+  
+  .create label { 
+    text-align: left; 
+    display: block;
+  }
+  /* .create h2 {
+   font-size: 20px;
+    margin-bottom: 30px;
+  color: #f1356d; 
+  } */
+  .create input, .create textarea, .create select {
+     width: 100%; 
+  padding: 6px 10px;
+  margin: 10px 0; 
+  border: 1px solid #ddd;
+  box-sizing: border-box; 
+  display: block; 
+  }
+  
+  .create button {
+  background: #f1356d; 
+  color: #fff;
+ border: 0;
+  padding: 8px;
+  border-radius: 9PX;
+  cursor: pointer;
+  }
+  #con{
+    padding: 15px;
+  }
+  .hdhd{
+    text-transform: uppercase;
+  }
